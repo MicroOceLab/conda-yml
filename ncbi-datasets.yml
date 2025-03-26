@@ -1,0 +1,9 @@
+name: ncbi-datasets
+channels:
+  - conda-forge
+  - bioconda
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - ca-certificates=2025.1.31=hbcca054_0
+  - ncbi-datasets-cli=17.2.0=ha770c72_1
